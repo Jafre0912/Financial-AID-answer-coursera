@@ -1,4 +1,4 @@
-# inancial-AID-answer-coursera
+# Financial-AID-answer-coursera
 
 Question 1: Why are you applying for Financial Aid?
 ANS:- I am applying for Financial Aid because I come from a financial background that does not allow me to pay for the course fees independently. Currently, I am a [student/worker] based in [Your Country] where the currency exchange rate further impacts my ability to afford international education fees. My monthly income is limited, covering only basic living expenses, and I have no additional sources of financial support. Taking this course would be a significant step towards my personal and professional development, but the cost poses a barrier. Financial Aid would allow me to pursue this course without causing undue financial stress or sacrificing my essential expenses. Additionally, I believe this course will open new opportunities for me in [mention your industry or field of interest] and help me build a strong foundation for a better career. This support would allow me to focus on the learning experience fully and achieve my career goals.
